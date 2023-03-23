@@ -1,0 +1,8 @@
+order bob 100 shares purchased at price 1099.00
+order carol 100 shares sold at price 1099.00
+order bob 100 shares purchased at price 1101.00
+order eve 100 shares sold at price 1101.00
+order ds 1 shares unexecuted
+order fred 100 shares unexecuted
+order carol 100 shares unexecuted
+order musk 50 shares unexecuted
